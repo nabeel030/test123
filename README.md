@@ -54,7 +54,3 @@ npm run whatsapp
 #### 9. Scan QR Code
 Scan the QR code displayed on the Laravel application to complete the setup.
 
-## Video Guide
-
-<video src="./demo.mp4" autoplay loop controls width="100%"></video>
-
