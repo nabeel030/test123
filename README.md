@@ -13,6 +13,7 @@ Follow these steps to set up and run the application:
 
 #### 1. Install Laravel Dependencies
 ```sh
+cd laravel
 composer install
 ```
 
